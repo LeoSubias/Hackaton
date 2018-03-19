@@ -1,0 +1,29 @@
+body{
+  font-family: 'Caveat', cursive;
+  font-size: 25px;
+}
+
+ul, li{
+  font-size: 25px;
+}
+
+.btn-form {
+margin-bottom: 5em;
+}
+
+.profil{
+  padding-top: 5em;
+}
+.back-profil{
+  background-color:#f9f9f9;
+}
+
+.img-profil{
+  border-radius: 400em;
+  border: 2px solid black;
+}
+
+body{
+    background-image: url('page/image/test.png'),height: 150%, width: 150%,z-index: -1 !important;
+    background-attachment:fixed;
+}
